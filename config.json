@@ -1,0 +1,22 @@
+{
+    "general": [
+        {
+            "token": "OTc0NDcxODE3MzM3MTMxMDM4.GSgZWt.ETCBrO1h0PAFQzVft3ruVx6BkVCsWLxW17e18Q",
+            "mainGuild": "945768164699021354"
+        }
+    ],
+    "database": [
+        {
+            "host": "127.0.0.1",
+            "user": "root",
+            "pass": "",
+            "data": "bxd_whitelist",
+            "dialect": "mariadb"
+        }
+    ],
+
+    "whitelist": {
+        "tag": "981670430333095998",
+        "channel": "972996789542199306"
+    }
+}
